@@ -1,0 +1,8 @@
+
+<%# @answer %>
+<%= form_for @conn, "/apply", fn f-> %>
+  Question 1:
+  <textarea id="q1" name="q1">
+  </textarea>
+  <input type="submit">
+<% end %>

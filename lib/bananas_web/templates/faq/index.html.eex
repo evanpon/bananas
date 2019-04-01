@@ -1,0 +1,60 @@
+<section class="phx-hero">
+  <h1><%= gettext "Welcome to %{name}!", name: "Conversa" %></h1>
+  <p>FAQ</p>
+</section>
+
+<section class="row">
+  <article class="column">
+    <h2>Resources</h2>
+    <ul>
+      <li>
+        What's your favorite thing about working at Conversa?
+      </li>
+      <li>
+        What's the most challenging thing about working at Conversa?
+      </li>
+      <li>
+        Can you describe a typical day?
+      </li>
+      <li>
+        What areas are we currently trying to improve on?
+      </li>
+      <li>
+        What are we proud of?
+      </li>
+      <li>
+        What is our development process like?
+      </li>
+    </ul>
+  </article>
+  <article class="column">
+    <h2>Help</h2>
+    <ul>
+      <li>
+        What is your technical stack?
+      </li>
+      <li>
+        What is your stance on work-life balance?
+      </li>
+      <li>
+        How big is the team?
+      </li>
+      <li>
+        What would I be working on ?
+      </li>
+      <li>
+        What is your WFH policy?
+      </li>
+      <li>
+        What kind of benefits do you offer?
+      </li>
+    </ul>
+  </article>
+</section>
+<section class="center">
+    <a href="/apply">
+      <button>
+        Apply
+      </button>
+    </a>
+</section>
